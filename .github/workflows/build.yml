@@ -17,7 +17,7 @@ on:
       TOOLCHAIN_URL:
         description: 'URL to the Clang/GCC Toolchain archive'
         required: true
-        default: 'https://gitlab.com/clangsantoni/zyc_clang'
+        default: 'https://gitlab.com/clangsantoni/zyc_clang/-/archive/14/zyc_clang-14.tar.gz?ref_type=heads'
       DEFCONFIG:
         description: 'The defconfig name (e.g., arch/arm64/configs/vendor_defconfig)'
         required: true
