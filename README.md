@@ -32,9 +32,9 @@
 > original kernel source: [LumiKernel-erofs](https://github.com/Luminous418-erofs)
 
 > thanks: 
-- **[fukiame](https://github.com/fukiame):** improve kernel source 
+- **[fukiame](https://github.com/fukiame):** improve kernel source | sticker for this readme (bootlooped sar)
 - **[mertsan2007](https://github.com/mertsan2007):** commit manual hook (old time)
-- **[RainyXeon](https://github.com/RainyXeon):** help me for hook min scope (old time) | sticker for this readme (bootlooped sar)
+- **[RainyXeon](https://github.com/RainyXeon):** help me for hook min scope
 - **[Luminous418](https://github.com/Luminous418):** EroFS support
 
 > notes: i'm not tested bc i busy, have any problem please contact me
