@@ -1,4 +1,8 @@
-
+> [!CAUTION]
+> If **you** build **KernelSU Next version >3**, **you can use syscall hooks v1.7** **or use kprobes hook** (check a32_k+e_defconfig).
+<div align="center" markdown="1">
+  
+<div align="center" markdown="1">
 
 <p align="center">
   <img src="https://github.com/m0onl1ghtt/m0onl1ghtt/blob/main/sticker2.png" alt="a" width="200" height="200"/>
@@ -12,7 +16,7 @@
 <div align="left" markdown="1">
   
 
-### Maintainer: [nguyencaoantuong](https://ncatt.t.me) ([m0onl1ghtt](https://github.com/m0onl1ghtt))
+### Maintainer: [nguyencaoantuong](https://ncatt.t.me) ([m0onl1ghtt](https://github.com/m0onl1ghtt)) and you :>
 
 > Download: [Telegram channel](https://t.me/nguyencaoantuong)
 
@@ -24,7 +28,7 @@
 - just upstreamed to .356 
 - add KernelSU Next
 - no OC for stablity and performance
-- hook kprobes
+- hook kprobes (change to manual hook soon)
 - EroFS for some ROMs have EroFS
 
 > Known issue: no (until now)
@@ -42,7 +46,6 @@
 > [AnyKernel3 customized for Moonlight kernel](https://github.com/m0onl1ghtt/AnyKernel3-m0onl1ghtt)
 
 > F&Q: soon.
-
 <div align="center" markdown="1">
 
 ### that's all!
